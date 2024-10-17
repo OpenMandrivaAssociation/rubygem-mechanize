@@ -6,7 +6,7 @@ Release:    %mkrel 1
 Summary:    The Mechanize library is used for automating interaction with websites
 Group:      Development/Ruby
 License:    GPLv2+ or Ruby
-URL:        http://mechanize.rubyforge.org
+URL:        https://mechanize.rubyforge.org
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
