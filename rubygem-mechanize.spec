@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    1.0.0
-Release:    %mkrel 1
+Release:    2
 Summary:    The Mechanize library is used for automating interaction with websites
 Group:      Development/Ruby
 License:    GPLv2+ or Ruby
